@@ -9,4 +9,14 @@ Through this little piece of software I demonstarted:
 - PyQt5 knowledge
 - PEP8 format, etc.
 
+Understanding the Repo:
+- images: Folder with necessary images for the game
+- .keep
+- DCColgado.py: Game Back End
+- README.md
+- Ventana.py: Game Front End
+- hangman.png
+- main.py: RUN THIS FILE TO PLAY THE GAME.
+- palabras.csv: words needed for the game.
+	
 ![](https://github.com/vicentevegaulloa/Public-Projects/blob/master/Hangman/hangman.png)
