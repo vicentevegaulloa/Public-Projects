@@ -1,0 +1,11 @@
+# --------------------------------------------
+# Python
+# --------------------------------------------
+
+
+mapas/
+sprites/
+parametros_plantas.py
+parametros_precios.py
+parametros_acciones.py
+__pycache__/
